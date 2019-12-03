@@ -4,7 +4,6 @@
   Ignore capitalization when determining if a character is a duplicate.
  */
 
-
  let duplicateString = (theString) => {
 
   let newString = "";

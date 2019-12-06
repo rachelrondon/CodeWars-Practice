@@ -7,7 +7,7 @@ let doubleInteger = (array) => {
     newArray.push(item * 2);
   })
 
-  return newArray; 
+  return newArray;
 }
 
 doubleInteger([1,2,3]);

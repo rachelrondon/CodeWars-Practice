@@ -9,6 +9,7 @@ let enoughSpace = (cap, on, wait) => {
   } else {
     return - (cap - passengers);
   }
+  
 }
 
 enoughSpace(10, 5, 5)
